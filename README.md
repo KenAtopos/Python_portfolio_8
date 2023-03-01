@@ -28,3 +28,6 @@ $ python create_db.py
 $ python app.py
 ```
 Open a web browser and go to `http://localhost:5000` to view the Todo List application.
+
+### Here is the UI:
+![img](./static/img/img.png)
